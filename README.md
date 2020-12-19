@@ -14,6 +14,12 @@
   - {"value1":"hoge:AddServer","value2":"fuga:AddServer"}
 
 ## Reference sources
+- docker-compose 下で Java + Spring Boot 環境を作ってみる | 北山淳也 | zenn
+  - https://zenn.dev/junki555/articles/1073408293050f
+- docker-compose 下で Java + Spring Boot + Thymeleaf を試す | 北山淳也 | zenn
+  - https://zenn.dev/junki555/articles/4358b1c7ca169d
+- docker-compose 下で Java + Spring Boot + 簡単なWeb API を作ってみる | 北山淳也 | zenn
+  - https://zenn.dev/junki555/articles/a19f27d1045805
 - OpenJDK | DockerHub
   - https://hub.docker.com/_/openjdk
 - JDK Project Releases | OpenJDK
